@@ -1,4 +1,4 @@
-# jwd-
+# Java Basic Program
 1. Write Servlet application to print current date & time
 
 2. Create a HTML page that link to Servlet Communication
